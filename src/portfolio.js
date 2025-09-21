@@ -7,27 +7,27 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Ashutosh's Portfolio",
+  title: "조지희's Portfolio",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "정성/정량 데이터 통합과 베이지안 모델링을 통해 비즈니스 인사이트를 도출하는 데이터 사이언티스트. AI/LLM 응용 및 인터랙티브 대시보드 구축 전문가.",
   og: {
-    title: "Ashutosh Hathidara Portfolio",
+    title: "조지희 Data Science Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "https://jay-lay-down.github.io/masterPortfolio/",
   },
 };
 
 //Home Page
-const greeting = {
-  title: "Ashutosh Hathidara",
-  logo_name: "AshutoshHathidara",
-  nickname: "layman_brother",
-  subTitle:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
-  resumeLink:
-    "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
-  githubProfile: "https://github.com/ashutosh1919",
+const skillsSection = {
+  title: "핵심 역량",
+  subTitle: "Market Intelligence 및 데이터 기반 마케팅 전략 수립",
+  skills: [
+    "⚡ 베이지안 분석을 통한 브랜드 이미지 및 고객 선호도 평가",
+    "⚡ 마케팅 퍼널 분석 및 전환율 최적화 전략 수립",
+    "⚡ AI 기반 고객 상호작용 분석 및 개인화 전략",
+    "⚡ 시장 수요 예측 및 마케팅 예산 배분 최적화",
+    "⚡ 고객 세그멘테이션 및 타겟팅 전략 개발"
+  ]
 };
 
 const socialMediaLinks = [
